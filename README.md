@@ -1,0 +1,1 @@
+# Analisis-Penjualan-Video-Games-Menggunakan-SVM
